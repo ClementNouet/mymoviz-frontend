@@ -5,10 +5,12 @@
 	width: 300px;
 	margin: 20px;
 	padding-bottom: 20px;
+	background-color: antiquewhite;
+	border-radius: 0px 0px 10px 10px;
 }
 
 .image {
-	width: 220px;
+	width: 300px;
 	border-radius: 10px 10px 0px 0px;
 }
 
